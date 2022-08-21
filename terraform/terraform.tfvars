@@ -1,4 +1,4 @@
-aws_region="us-east-1"
+aws_region="eu-west-1"
 stack="terraform-workshop"
 fargate-task-service-role="terraform-workshop-role"
 aws_ecr="petclinic"
